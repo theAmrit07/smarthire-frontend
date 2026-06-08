@@ -1,6 +1,5 @@
 import axios from 'axios'
-
-const API_URL = 'https://smart-hire-production-283f.up.railway.app/api'
+const API_URL = 'https://smart-hire-l974.onrender.com/api'
 
 const api = axios.create({
   baseURL: API_URL,
